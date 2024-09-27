@@ -1,7 +1,8 @@
 from eliacid import Eliacid
 
 def main():
-    print("Hello, World!")
+    v = "Hello, World!"
+    print()
 
     eliacid = Eliacid()
     eliacid.print_name()
