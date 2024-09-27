@@ -3,6 +3,7 @@ public class Main {
         Calculadora calculadora = new Calculadora();
         
         // Operaciones básicas
+        System.out.println("Multiplicación: " + calculadora.multiplicacion(5, 3));
         System.out.println("Suma: " + calculadora.suma(5, 3));
         System.out.println("Resta: " + calculadora.resta(5, 3));
     }
