@@ -2,7 +2,7 @@ from eliacid import Eliacid
 
 def main():
     v = "Hello, World!"
-    print()
+    print(v)
 
     eliacid = Eliacid()
     eliacid.print_name()
